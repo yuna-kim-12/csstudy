@@ -11,7 +11,9 @@ https://www.nossi.dev/cs
 <br>
 운영체제 kocw 강의
 http://www.kocw.net/home/search/kemView.do?kemId=1046323
-
+<br>
+CS 용어 노트
+https://csnote.net/
 
 
 ### 1. 혼자 공부하는 컴퓨터 구조+운영체제 책 정리(12/22일까지)
