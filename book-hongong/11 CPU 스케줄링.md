@@ -38,7 +38,7 @@
 
 **일반적인 프로세스 실행 과정**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a4909d84-4be2-4e4a-8192-01dc46d8791d/9456dc7f-6938-4c66-9a1d-04900e7b0889/image.png)
+![alt text](<image/11-1 process.png>)
 
 - CPU와 입출력 장치를 모두 사용해, 실행 상태와 대기 상태를 반복하며 실행
 - 즉, **프로세스 실행은 CPU 실행과 I/O 대기 사이클로 구성된다.**
